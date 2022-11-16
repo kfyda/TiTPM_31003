@@ -1,0 +1,13 @@
+S³ownik
+1 a 
+2 b 
+3 w 
+4 wa 3
+5 ab 1
+6 bb 2
+7 ba 2
+8 aw 1
+9 wab 4
+10 bba 6
+Kod
+3, 1, 2, 2, 1, 4, 6, 
