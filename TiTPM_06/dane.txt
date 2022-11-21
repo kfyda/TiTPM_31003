@@ -1,0 +1,7 @@
+0 0 a     
+0 0 b    a
+2 2 c   ab
+0 3 a babc
+0 2 a baba
+2 2 a abaa
+0 1   aaaa
